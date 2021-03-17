@@ -1,0 +1,18 @@
+.navbar-inverse 
+{
+	background-color: #5a3008;
+	 
+}
+.navbar-inverse .navbar-nav > .active > a, 
+.navbar-nav > li > .dropdown-menu, .option-box .color-option
+{
+	background-color: #0b6b19;
+}
+.navbar-inverse .navbar-brand
+{
+	color: #967f7f;
+}
+.navbar-inverse .navbar-brand span:hover 
+{
+	color:#0b6b19;
+}

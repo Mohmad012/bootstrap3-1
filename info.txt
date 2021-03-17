@@ -1,0 +1,19 @@
+larg screen => lg
+medium screen => md
+small screen => sm
+Extra small screen => xs
+
+=> 4 Prodact In Large Screen => [ 12 / 4 = 3 ]  	Ex: col-lg-3
+=> 3 Prodact In Medium Screen => [ 12 / 3 = 4 ] 	Ex: col-md-4
+=> 2 Prodact In Small Screen => [ 12 / 2 = 6 ]		Ex: col-sm-6
+=> 1 Prodact In Mobile Screen => [ 12 / 1 = 12 ]	Ex: col-xs-12
+
+hedden-[lg or sm ...]
+visible-[lg or sm ...]
+
+
+<div class="clearfix"></div>  => Put It Under The Row
+
+offset => margin left => Ex: col-lg-offset-3 => That Mean It Take [ 25% ] Space From Left And So On
+
+=> push && pull [ push for move towords right && pull for move towords left ]
